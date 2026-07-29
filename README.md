@@ -1,3 +1,12 @@
+## What I am doing
+
+Hello IEEE SSCS @ UTD (or, any other visitor ambling upon here!) 
+
+The intent of this repository is to implement
+
+This is currently a new repository that may not be touched for some months as I work on developing the IEEE SSCS club and internship prep, but I intend to turn this into a YouTube series to become one of (hopefully many!) educational resource for IEEE SSCS.
+
+
 ## From the Transistor to the Web Browser
 
 Hiring is hard, a lot of modern CS education is really bad, and it's hard to find people who understand the modern computer stack from first principles.
