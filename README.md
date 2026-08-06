@@ -4,6 +4,8 @@ Hello IEEE SSCS @ UTD (and any other visitors too!)
 
 The intent of this repository is to implement geohot's "From the Transistor to the Web Browser," described below. This is currently a new repository that may not be touched for some months as I work on developing the IEEE SSCS club and other projects, but I intend to turn this into a YouTube series to become one of (hopefully many!) educational resources for IEEE SSCS.
 
+Currently, the goal is simple raw implementation of each of the sections for my own reference. Slides and other teaching content will be developed afterward.
+
 
 ## From the Transistor to the Web Browser
 
