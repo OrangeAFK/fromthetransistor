@@ -1,10 +1,8 @@
 ## What I am doing
 
-Hello IEEE SSCS @ UTD (or, any other visitor ambling upon here!) 
+Hello IEEE SSCS @ UTD (and any other visitors too!) 
 
-The intent of this repository is to implement
-
-This is currently a new repository that may not be touched for some months as I work on developing the IEEE SSCS club and internship prep, but I intend to turn this into a YouTube series to become one of (hopefully many!) educational resource for IEEE SSCS.
+The intent of this repository is to implement geohot's "From the Transistor to the Web Browser," described below. This is currently a new repository that may not be touched for some months as I work on developing the IEEE SSCS club and other projects, but I intend to turn this into a YouTube series to become one of (hopefully many!) educational resources for IEEE SSCS.
 
 
 ## From the Transistor to the Web Browser
